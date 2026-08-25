@@ -88,22 +88,6 @@ Failed Payment Transaction
 └──────────────────────────┘
 ---
 
-## 📸 Dashboard Preview
-
-### Executive Dashboard
-![ReviveAI Dashboard](screenshots/dashboard.png)
-
-### AI Strategy Intelligence
-![AI Strategy Intelligence](screenshots/strategy-intelligence.png)
-
-### Financial Opportunity
-![Financial Opportunity](screenshots/financial-opportunity.png)
-
-### AI Model Performance
-![AI Model Performance](screenshots/model-performance.png)
-
-### AI Decision Trail
-![AI Decision Trail](screenshots/decision-trail.png)
 
 ### Transaction Analysis
 ![Transaction Analysis](screenshots/transaction-data.png)
