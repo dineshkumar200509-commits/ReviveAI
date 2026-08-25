@@ -87,7 +87,3 @@ Failed Payment Transaction
 │ • Decision audit trail   │
 └──────────────────────────┘
 ---
-
-
-### Transaction Analysis
-![Transaction Analysis](screenshots/transaction-data.png)
